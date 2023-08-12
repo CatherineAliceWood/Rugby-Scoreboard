@@ -1,0 +1,48 @@
+.background {
+    background-color:cornflowerblue;
+    border: 5px solid black;
+    border-radius: 10px;
+    width: fit-content;
+    margin-top: 100px;
+}
+
+.names {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+    margin-top: 20px;
+}
+
+.scores {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+}
+
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    margin-bottom: 20px;
+    background-color: green;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+button:hover {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    margin-bottom: 20px;
+    background-color: white;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.winning-score {
+    color: green;
+}
+
+.losing-score {
+    color: red;
+}
+
+.draw {
+    color: blue;
+}
