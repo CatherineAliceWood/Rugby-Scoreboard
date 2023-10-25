@@ -1,5 +1,5 @@
 # Rugby Scoreboard
-[https://catherinealicewood.github.io/Rugby-Scoreboard/]
+[https://catherinealicewood.github.io/Rugby-Scoreboard/](https://catherinealicewood.github.io/Rugby-Scoreboard/)
 ## Created as part of the Scrimba Frontend Web Dev Career Path
 I took up the basketball scoreboard solo project task from the course but decided to do a rugby scoreboard instead!
 The buttons for each team add to their score for a try, conversion or penalty.
